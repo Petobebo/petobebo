@@ -1,5 +1,6 @@
 <html>
-  <h1 style="color:green;text-align:center"></h1>
+<title> patrick's website</title>
+  <h1 style="color:green;text-align:center">my site</h1>
   <a href="https://www.google.com/">
     <button>click me</button> </a>
   </html>
