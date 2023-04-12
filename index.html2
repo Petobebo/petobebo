@@ -1,7 +1,10 @@
 <html>
+<body style="background-color:blue"></body>
 <title> patrick's website</title>
   <h1 style="color:green;text-align:center">my site</h1>
+  <body>
+  <main>
+  <p style="background-color:white"><b><i>I am patrick</i></b> </p>
   <a href="https://www.google.com/">
     <button>click me</button> </a>
-  </html>
-    
+  </html>  
